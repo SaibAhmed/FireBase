@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="Logo">Laser print</string>
+    <string name="Ragister">Sign Up</string>
+    <string name="LOGOUT">Logout</string>
+    <string name="Login">Login</string>
+    <string name="Sign_Line">Sign in with your account</string>
+    <string name="Invalid_Email">Your Email is invalid</string>
+    <string name="Invalid_Password">Your Password is too short</string>
+    <string name="Incorrect_Password">Your Password is not correct</string>
+    <string name="Field_required">Please fill the fields</string>
+
+
+</resources>
